@@ -29,7 +29,7 @@ Chức năng:
 
 Quản lý danh sách chờ.
 
-Độ ưu tiên:
+Độ ưu tiên của khach hàng:
 
 1. VIP
 2. Người cao tuổi
